@@ -38,6 +38,7 @@ public class viewEntrega extends JFrame {
 	 * Create the frame.
 	 */
 	public viewEntrega() {
+		setTitle("Tela Etrega");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		
